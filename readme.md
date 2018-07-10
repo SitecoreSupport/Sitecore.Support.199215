@@ -1,5 +1,5 @@
 # Sitecore.Support.199215
-JS error in IE11 which breaks EE functionality
+JS error in IE11 which breaks Experience Editor functionality
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.199215/blob/master/LICENSE).  
